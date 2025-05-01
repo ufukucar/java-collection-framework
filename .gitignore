@@ -2,3 +2,7 @@
 .idea/
 
 **/.idea/
+
+out
+out/
+**/out/
