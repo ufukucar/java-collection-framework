@@ -46,9 +46,12 @@ public class _001_Hashset_Nedir {
         for ( String s : difference ) {
             System.out.println(s);
         }
+        System.out.println("*******************************************");
 
-        System.out.println();
+        System.out.println("set2 nin tüm elemanlarını silme");
 
+        set2.clear();
+        System.out.println("set2: " + set2);
 
     }
 }
